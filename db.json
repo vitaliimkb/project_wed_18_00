@@ -12,7 +12,15 @@
             "price": 42000 ,
             "photo_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840578",
         },
-]
+        
+        {
+                "name": "Bayractar",
+                "description": "",
+                "price": "5000000$"
+                "photo url": "https://gdb.rferl.org/c3410000-0aff-0242-2f37-08d99e12e067_cx0_cy11_cw0_w1200_r1.jpg',
+                "result": "https://i.imgur.com/q4ms2x3.jpg",
+        }
+]       
 
 
   
